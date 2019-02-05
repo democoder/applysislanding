@@ -1,0 +1,5 @@
+# Redirect domain aliases to primary domain
+http://www.applysis.io/* http://applysis.io/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+http://pedantic-stallman-62705a.netlify.com/* http://applysis.io/:splat 301!
