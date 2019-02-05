@@ -5,3 +5,10 @@
 
 
 * http://applysis.io
+* Automatic Deployment is active for master
+* Form submissions handled by netlify
+
+
+## Copyright
+
+Free Responsive Website Template by [Download Website Templates](https://www.downloadwebsitetemplates.co.uk/) - Icons by [Font Awesome](https://fontawesome.com)
